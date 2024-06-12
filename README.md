@@ -1,6 +1,7 @@
 # FINAL-PROJECT
 ## Mapping Global Fires
 Visualize global fires and it's emissions
+
 We'll use latitudes and longitude for area location and brightness to denote intensity of fire
 
 ### Tools 
